@@ -1,0 +1,8 @@
+{
+  "name": "BTC Pó em Ouro",
+  "symbol": "BPO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x13dA940e40fD4330faB425B6A43a30a864515F4f"
+}
